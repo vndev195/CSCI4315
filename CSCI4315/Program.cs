@@ -6,31 +6,85 @@ namespace CSCI4315
     {
         static void Main(string[] args)
         {
-            Random rd = new Random();
-            int[] array = new int[10];
+            int size = 0;
+            bool flag = true;
+            char opt;
+            Console.Write("Pleae input the size of an array: ");
 
-            for(int i = 0; i < array.Length; i++){
-                array[i]= rd.Next(1,100);
+            do
+            {
+                if (flag == false)
+                {
+                    Console.WriteLine("Input again!");
+                }
+                flag = int.TryParse(Console.ReadLine(), out size);
+            } while (flag == false);
+
+            Random rd = new Random(); //ini random object
+            int[] array = new int[size]; //ini an integer array
+
+            Console.Write("\nEnter number by hand? yes(Y/y) or no(N/n): ");
+            char.TryParse(Console.ReadLine(), out opt);
+
+            switch (opt)
+            {
+                case 'Y':
+                case 'y':
+                    for (int i = 0; i < array.Length; i++)
+                    {
+                        array[i] = int.Parse(Console.ReadLine());
+                    }
+                    break;
+                case 'N':
+                case 'n':
+                    for (int i = 0; i < array.Length; i++)
+                    {
+                        array[i] = rd.Next(1, 100);
+                    }
+                    break;
+                default:
+                    break;
             }
 
-            //display int array
-            for(int i = 0; i < array.Length; i++){
-                Console.Write(array[i]+ "\t");
-            }
             Console.WriteLine();
-            int sum = ArrayHandler.Sum(array);
-            Console.WriteLine($"Sum = {sum}");
+            ArrayHandler.PrintOut(array);
 
-            double avg = ArrayHandler.Average(sum, array.Length);
-            Console.WriteLine($"Average = {avg}");
+            Console.WriteLine();
+            Console.WriteLine($"Sum = {ArrayHandler.Sum(array)}");
 
-            int theLargest = ArrayHandler.LargestNumber(array);
-            Console.WriteLine($"The largest = {theLargest}");
+            Console.WriteLine($"Average = {ArrayHandler.Average(array)}");
 
-            int theSecondLargest = ArrayHandler.SecondLargest(array);
-            Console.WriteLine($"The second largest = {theSecondLargest}");
+            Console.WriteLine($"The largest = {ArrayHandler.LargestNumber(array)}");
 
-            ArrayHandler.StandardDeviation(array);
+            Console.WriteLine($"The second largest = {ArrayHandler.SecondLargest(array)}");
+
+            Console.WriteLine($"Standard deviation = {ArrayHandler.StandardDeviation(array)}");
+
+            Console.WriteLine($"Variance = {ArrayHandler.Variance(array)}");
+
+            Console.WriteLine($"Standard Error = {ArrayHandler.StandardError(array)}");
+
+            Console.Write("\nEnter 1 for numbers that are bigger than the average, 2 for numbers that are smaller than average: ");
+            int.TryParse(Console.ReadLine(), out int choice);
+
+            if (choice == 1)
+            {
+                Console.WriteLine("-----The numbers that are bigger than the average-----");
+                foreach (var i in ArrayHandler.BiggerOrSmallerThan(array))
+                {
+                    Console.Write($"{i}\t");
+                }
+            }
+            else if(choice == 2){
+                Console.WriteLine("-----The numbers that are smaller than the average-----");
+                foreach (var i in ArrayHandler.BiggerOrSmallerThan(array, false))
+                {
+                    Console.Write($"{i}\t");
+                }
+            }
+            else{
+                Console.WriteLine("Check your input and try again");
+            }
         }
     }
 }
