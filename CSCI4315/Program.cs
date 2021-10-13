@@ -9,9 +9,9 @@ namespace CSCI4315
             int size = 0;
             bool flag = true;
             char opt;
-            Console.Write("Pleae input the size of an array: ");
+            Console.Write("Pleae input the size of an array: "); //Take input from user
 
-            do
+            do //promt user to input again if it's not an integer number
             {
                 if (flag == false)
                 {
@@ -21,8 +21,10 @@ namespace CSCI4315
             } while (flag == false);
 
             Random rd = new Random(); //ini random object
-            int[] array = new int[size]; //ini an integer array
+            int[] array = new int[size]; //ini an integer array with size is import from user
 
+
+            //Users have two options that are enter number by hand or use random obj to create random number for an array
             Console.Write("\nEnter number by hand? yes(Y/y) or no(N/n): ");
             char.TryParse(Console.ReadLine(), out opt);
 
@@ -47,9 +49,11 @@ namespace CSCI4315
             }
 
             Console.WriteLine();
-            ArrayHandler.PrintOut(array);
+            ArrayHandler.PrintOut(array); // display an array of int to the screen
 
             Console.WriteLine();
+
+            //used of ArrayHandler class
             Console.WriteLine($"Sum = {ArrayHandler.Sum(array)}");
 
             Console.WriteLine($"Average = {ArrayHandler.Average(array)}");

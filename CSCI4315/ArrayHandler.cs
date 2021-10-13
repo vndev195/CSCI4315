@@ -61,19 +61,19 @@ namespace CSCI4315
             standardDeviation = Math.Sqrt(t / (_array.Length - 1));
             //Console.WriteLine($"length: {_array.Length}\nsample mean: {sampleMean} and \nstandard deviation: {standardDeviation}");
 
-            return standardDeviation;
+            return Math.Round(standardDeviation,2);
         }
 
         public static double Variance(int[] _array)
         {
             double standardDeviation = ArrayHandler.StandardDeviation(_array);
-            return Math.Pow(standardDeviation, 2);
+            return Math.Round(Math.Pow(standardDeviation, 2),2);
         }
 
         public static double StandardError(int[] _array)
         {
             double standardDeviation = ArrayHandler.StandardDeviation(_array);
-            return standardDeviation / Math.Sqrt(_array.Length);
+            return Math.Round(standardDeviation / Math.Sqrt(_array.Length),2);
         }
 
         public static void PrintOut(int[] _array)

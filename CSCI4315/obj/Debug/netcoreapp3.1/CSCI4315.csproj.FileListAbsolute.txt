@@ -1,16 +1,3 @@
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.exe
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.deps.json
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.runtimeconfig.json
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.runtimeconfig.dev.json
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.dll
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.pdb
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.csproj.AssemblyReference.cache
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.AssemblyInfoInputs.cache
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.AssemblyInfo.cs
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.csproj.CoreCompileInputs.cache
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.dll
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.pdb
-C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.genruntimeconfig.cache
 /Users/vngdev/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.deps.json
 /Users/vngdev/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.runtimeconfig.json
 /Users/vngdev/Projects/CSCI4315/CSCI4315/bin/Debug/netcoreapp3.1/CSCI4315.runtimeconfig.dev.json
@@ -24,3 +11,16 @@ C:/Visual Studio/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.gen
 /Users/vngdev/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.dll
 /Users/vngdev/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.pdb
 /Users/vngdev/Projects/CSCI4315/CSCI4315/obj/Debug/netcoreapp3.1/CSCI4315.genruntimeconfig.cache
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.exe
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.deps.json
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.runtimeconfig.json
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.runtimeconfig.dev.json
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.dll
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\bin\Debug\netcoreapp3.1\CSCI4315.pdb
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.csproj.AssemblyReference.cache
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.AssemblyInfo.cs
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.dll
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.pdb
+C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.genruntimeconfig.cache
