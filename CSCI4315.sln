@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCI4315", "CSCI4315\CSCI4315.csproj", "{7EE6287B-1539-4248-90F2-2D1829923E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSCI4315", "CSCI4315\CSCI4315.csproj", "{7EE6287B-1539-4248-90F2-2D1829923E03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Program2", "Program2", "{B409AB0A-B838-449A-9C04-881B1EC3AC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time2", "Time2\Time2.csproj", "{F5E33554-3D8C-4DA2-B497-09C7CAF7E759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2", "Program2\Program2.csproj", "{01434811-D442-434A-8BB9-4B040F6493A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +21,21 @@ Global
 		{7EE6287B-1539-4248-90F2-2D1829923E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE6287B-1539-4248-90F2-2D1829923E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE6287B-1539-4248-90F2-2D1829923E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E33554-3D8C-4DA2-B497-09C7CAF7E759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E33554-3D8C-4DA2-B497-09C7CAF7E759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E33554-3D8C-4DA2-B497-09C7CAF7E759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E33554-3D8C-4DA2-B497-09C7CAF7E759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01434811-D442-434A-8BB9-4B040F6493A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01434811-D442-434A-8BB9-4B040F6493A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01434811-D442-434A-8BB9-4B040F6493A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01434811-D442-434A-8BB9-4B040F6493A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5E33554-3D8C-4DA2-B497-09C7CAF7E759} = {B409AB0A-B838-449A-9C04-881B1EC3AC91}
+		{01434811-D442-434A-8BB9-4B040F6493A1} = {B409AB0A-B838-449A-9C04-881B1EC3AC91}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {79DD4D88-C1B5-480F-A891-E5DD77780910}
