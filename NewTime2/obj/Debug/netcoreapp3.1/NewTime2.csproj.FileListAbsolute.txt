@@ -1,0 +1,9 @@
+C:\Visual Studio\Projects\CSCI4315\NewTime2\bin\Debug\netcoreapp3.1\NewTime2.deps.json
+C:\Visual Studio\Projects\CSCI4315\NewTime2\bin\Debug\netcoreapp3.1\NewTime2.dll
+C:\Visual Studio\Projects\CSCI4315\NewTime2\bin\Debug\netcoreapp3.1\NewTime2.pdb
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.AssemblyInfo.cs
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.dll
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.pdb
+C:\Visual Studio\Projects\CSCI4315\NewTime2\obj\Debug\netcoreapp3.1\NewTime2.csproj.AssemblyReference.cache

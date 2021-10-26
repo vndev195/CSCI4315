@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewProgram2/1.0.0": {
+        "dependencies": {
+          "NewTime2": "1.0.0"
+        },
+        "runtime": {
+          "NewProgram2.dll": {}
+        }
+      },
+      "NewTime2/1.0.0": {
+        "runtime": {
+          "NewTime2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewProgram2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewTime2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

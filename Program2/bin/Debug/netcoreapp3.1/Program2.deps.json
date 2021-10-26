@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Program2/1.0.0": {
+        "dependencies": {
+          "NewTime2": "1.0.0",
+          "Time2": "1.0.0"
+        },
         "runtime": {
           "Program2.dll": {}
+        }
+      },
+      "NewTime2/1.0.0": {
+        "runtime": {
+          "NewTime2.dll": {}
+        }
+      },
+      "Time2/1.0.0": {
+        "runtime": {
+          "Time2.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Program2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewTime2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Time2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

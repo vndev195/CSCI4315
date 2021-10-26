@@ -11,3 +11,8 @@ C:\Visual Studio\Projects\CSCI4315\Program2\obj\Debug\netcoreapp3.1\Program2.csp
 C:\Visual Studio\Projects\CSCI4315\Program2\obj\Debug\netcoreapp3.1\Program2.dll
 C:\Visual Studio\Projects\CSCI4315\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
 C:\Visual Studio\Projects\CSCI4315\Program2\obj\Debug\netcoreapp3.1\Program2.genruntimeconfig.cache
+C:\Visual Studio\Projects\CSCI4315\Program2\bin\Debug\netcoreapp3.1\Time2.dll
+C:\Visual Studio\Projects\CSCI4315\Program2\bin\Debug\netcoreapp3.1\Time2.pdb
+C:\Visual Studio\Projects\CSCI4315\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.CopyComplete
+C:\Visual Studio\Projects\CSCI4315\Program2\bin\Debug\netcoreapp3.1\NewTime2.dll
+C:\Visual Studio\Projects\CSCI4315\Program2\bin\Debug\netcoreapp3.1\NewTime2.pdb

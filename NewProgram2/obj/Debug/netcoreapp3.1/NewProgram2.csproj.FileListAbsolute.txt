@@ -1,0 +1,16 @@
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.exe
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.deps.json
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.runtimeconfig.json
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.runtimeconfig.dev.json
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.dll
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewProgram2.pdb
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewTime2.dll
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\bin\Debug\netcoreapp3.1\NewTime2.pdb
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.csproj.AssemblyReference.cache
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.AssemblyInfoInputs.cache
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.AssemblyInfo.cs
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.csproj.CopyComplete
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.dll
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.pdb
+C:\Visual Studio\Projects\CSCI4315\NewProgram2\obj\Debug\netcoreapp3.1\NewProgram2.genruntimeconfig.cache
