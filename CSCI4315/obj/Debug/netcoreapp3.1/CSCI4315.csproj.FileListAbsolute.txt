@@ -23,4 +23,3 @@ C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.csp
 C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.dll
 C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.pdb
 C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.genruntimeconfig.cache
-C:\Visual Studio\Projects\CSCI4315\CSCI4315\obj\Debug\netcoreapp3.1\CSCI4315.csproj.AssemblyReference.cache

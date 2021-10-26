@@ -113,7 +113,7 @@ namespace NewTime2
         }
 
         // convert to string in universal-time format (HH:MM:SS)
-        public string ToUniversalString() => $"{Second + Minute * 60 + Hour * 3600}";
+       public string ToUniversalString() => $"{Hour:D2} : {Minute:D2} : {Second:D2}";
 
         // convert to string in standard-time format (H:MM:SS AM or PM)
         //public override string ToString() => $"{Second + Minute * 60 + Hour * 3600} {(Hour < 12 ? "AM" : "PM")}";
