@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7q9AwFfXPzRyx0I8bMn923u4vo3tevIEIdYGOcY4WbVnfoA6SKwMrN6md7UIP73+0yVk4baEYKu8bmrOyB/Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio\\Projects\\CSCI4315\\Midterm2\\Midterm2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vu-ng\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

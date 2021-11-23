@@ -11,12 +11,10 @@ namespace Time2
             get { return _hour; }
             set
             {
-                if (value < 23)
+                if (value < 24)
                 {
-                    if (value > -23 && value < 0)
-                        _hour = -value;
-                    else
-                        _hour = value;
+
+                    _hour = value;
                 }
 
                 else
@@ -32,12 +30,10 @@ namespace Time2
             get { return _minute; }
             set
             {
-                if (value < 59)
+                if (value < 60)
                 {
-                    if (value > -59 && value < 0)
-                        _minute = -value;
-                    else
-                        _minute = value;
+
+                    _minute = value;
                 }
 
                 else
@@ -54,12 +50,10 @@ namespace Time2
             get { return _second; }
             set
             {
-                if (value < 59)
+                if (value < 60)
                 {
-                    if (value > -59 && value < 0)
-                        _second = -value;
-                    else
-                        _second = value;
+
+                    _second = value;
                 }
 
                 else
@@ -103,7 +97,7 @@ namespace Time2
             Second = second;
         }
 
-        public string ToUniversalString() => $"{Hour:D2} : {Minute:D2} : {Second:D2}";
+        public virtual string ToUniversalString() => $"{Hour:D2} : {Minute:D2} : {Second:D2}";
 
         public override string ToString() => $"{((Hour == 0 || Hour == 12) ? 12 : Hour % 12)}:" + $"{Minute:D2}:{Second:D2} {(Hour < 12 ? "AM" : "PM")}";
 
@@ -111,24 +105,30 @@ namespace Time2
         public void AddTime(int h, int m, int s)
         {
             int tempHour, tempMinute, tempSecond;
-            tempHour = tempSecond = tempMinute = 0;
-            if (s > 59)
-            {
-                tempMinute = s / 60;
-                tempSecond = s - tempMinute * 60;
+            tempHour = Hour;
+            tempMinute = Minute;
+            tempSecond = Second;
 
-            }
-            if (m > 59)
+            tempSecond += s;
+            if (tempSecond < 0)
             {
-                tempHour = m / 60;
-                tempMinute += m - tempHour * 60;
+                tempSecond = tempSecond + 60;
+                tempMinute--;
             }
-
+            tempMinute += m;
+            if (tempMinute < 0)
+            {
+                tempMinute = tempMinute + 60;
+                tempHour--;
+            }
             tempHour += h;
-
-            Hour += tempHour;
-            Minute += tempMinute;
-            Second += tempSecond;
+            if(tempHour < 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(tempHour), $"The value of hour should be between 0-23");
+            }
+            Hour = tempHour;
+            Minute = tempMinute;
+            Second = tempSecond;
 
             Console.WriteLine($"{Hour} : {Minute} : {Second}");
         }

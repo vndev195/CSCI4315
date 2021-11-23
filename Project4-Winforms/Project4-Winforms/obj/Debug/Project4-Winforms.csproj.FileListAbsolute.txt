@@ -1,0 +1,10 @@
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\bin\Debug\Project4-Winforms.exe.config
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\bin\Debug\Project4-Winforms.exe
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\bin\Debug\Project4-Winforms.pdb
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4-Winforms.csproj.AssemblyReference.cache
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4_Winforms.Properties.Resources.resources
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4-Winforms.csproj.GenerateResource.cache
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4-Winforms.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4-Winforms.exe
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4-Winforms.pdb
+C:\Visual Studio\Projects\CSCI4315\Project4-Winforms\Project4-Winforms\obj\Debug\Project4_Winforms.Form1.resources
