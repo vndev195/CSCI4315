@@ -1,0 +1,13 @@
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\bin\Debug\P4-Winforms.exe.config
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\bin\Debug\P4-Winforms.exe
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\bin\Debug\P4-Winforms.pdb
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\bin\Debug\Time2NetFrameWork.dll
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\bin\Debug\Time2NetFrameWork.pdb
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4_Winforms.Properties.Resources.resources
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.csproj.GenerateResource.cache
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.csproj.CoreCompileInputs.cache
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.csproj.CopyComplete
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.exe
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.pdb
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4_Winforms.Form1.resources
+C:\Projects\VS-Projects\CSCI4315\P4-Winforms\P4-Winforms\obj\Debug\P4-Winforms.csproj.AssemblyReference.cache

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program2", "Program2\Progra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTime2", "NewTime2\NewTime2.csproj", "{B23E4C5F-BB31-47CF-982B-BA5CE24C2EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExample", "FileExample\FileExample.csproj", "{0D1C9BF9-AF6C-47B2-B500-EB02468C0A0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileExample", "FileExample\FileExample.csproj", "{0D1C9BF9-AF6C-47B2-B500-EB02468C0A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time2NetFrameWork", "Time2NetFrameWork\Time2NetFrameWork.csproj", "{B2325B39-9A01-480F-AB68-4AB802795BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{0D1C9BF9-AF6C-47B2-B500-EB02468C0A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D1C9BF9-AF6C-47B2-B500-EB02468C0A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D1C9BF9-AF6C-47B2-B500-EB02468C0A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2325B39-9A01-480F-AB68-4AB802795BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2325B39-9A01-480F-AB68-4AB802795BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2325B39-9A01-480F-AB68-4AB802795BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2325B39-9A01-480F-AB68-4AB802795BC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,7 +19,7 @@ namespace Time2
 
                 else
                 {
-                    throw new ArgumentOutOfRangeException(nameof(value), $"The value of hour should be between 0-23");
+                    throw new ArgumentOutOfRangeException($"The value of hour should be between 0-23");
                 }
             }
         }
@@ -38,7 +38,7 @@ namespace Time2
 
                 else
                 {
-                    throw new ArgumentOutOfRangeException(nameof(value), $"The value of minute should be between 0-59");
+                    throw new ArgumentOutOfRangeException($"The value of minute should be between 0-59");
                 }
             }
         }
@@ -58,7 +58,7 @@ namespace Time2
 
                 else
                 {
-                    throw new ArgumentOutOfRangeException(nameof(value), $"The value of second should be between 0-59");
+                    throw new ArgumentOutOfRangeException($"The value of second should be between 0-59");
                 }
             }
         }

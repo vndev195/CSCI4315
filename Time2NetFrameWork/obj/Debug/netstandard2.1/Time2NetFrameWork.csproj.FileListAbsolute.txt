@@ -1,0 +1,10 @@
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\bin\Debug\netstandard2.1\Time2NetFrameWork.deps.json
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\bin\Debug\netstandard2.1\Time2NetFrameWork.dll
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\bin\Debug\netstandard2.1\Time2NetFrameWork.pdb
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.csproj.AssemblyReference.cache
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.AssemblyInfoInputs.cache
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.AssemblyInfo.cs
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.csproj.CoreCompileInputs.cache
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.dll
+C:\Projects\VS-Projects\CSCI4315\Time2NetFrameWork\obj\Debug\netstandard2.1\Time2NetFrameWork.pdb

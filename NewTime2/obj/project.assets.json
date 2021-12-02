@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio\\Projects\\CSCI4315\\NewTime2\\NewTime2.csproj",
+      "projectUniqueName": "C:\\Projects\\VS-Projects\\CSCI4315\\NewTime2\\NewTime2.csproj",
       "projectName": "NewTime2",
-      "projectPath": "C:\\Visual Studio\\Projects\\CSCI4315\\NewTime2\\NewTime2.csproj",
+      "projectPath": "C:\\Projects\\VS-Projects\\CSCI4315\\NewTime2\\NewTime2.csproj",
       "packagesPath": "C:\\Users\\vu-ng\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio\\Projects\\CSCI4315\\NewTime2\\obj\\",
+      "outputPath": "C:\\Projects\\VS-Projects\\CSCI4315\\NewTime2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

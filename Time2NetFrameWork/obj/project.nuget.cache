@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHJAOLBhI1r32DhII3RoK/bW2gyKKUfBOkjZBlApbP+9z8HIEylCnd1Rcvl/gzuuQ+b88SMbI/pYOz1HXqjhXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\VS-Projects\\CSCI4315\\Time2NetFrameWork\\Time2NetFrameWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vu-ng\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vu-ng\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

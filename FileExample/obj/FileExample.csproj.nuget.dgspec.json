@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio\\Projects\\CSCI4315\\FileExample\\FileExample.csproj": {}
+    "C:\\Projects\\VS-Projects\\CSCI4315\\FileExample\\FileExample.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio\\Projects\\CSCI4315\\FileExample\\FileExample.csproj": {
+    "C:\\Projects\\VS-Projects\\CSCI4315\\FileExample\\FileExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio\\Projects\\CSCI4315\\FileExample\\FileExample.csproj",
+        "projectUniqueName": "C:\\Projects\\VS-Projects\\CSCI4315\\FileExample\\FileExample.csproj",
         "projectName": "FileExample",
-        "projectPath": "C:\\Visual Studio\\Projects\\CSCI4315\\FileExample\\FileExample.csproj",
+        "projectPath": "C:\\Projects\\VS-Projects\\CSCI4315\\FileExample\\FileExample.csproj",
         "packagesPath": "C:\\Users\\vu-ng\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio\\Projects\\CSCI4315\\FileExample\\obj\\",
+        "outputPath": "C:\\Projects\\VS-Projects\\CSCI4315\\FileExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -55,18 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.18, 3.1.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
